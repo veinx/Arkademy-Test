@@ -1,2 +1,3 @@
 # Arkademy-Test
-The Answer for arkademy.com test bootcamp batch 14
+Hi, Ivan here
+This is my answer for Arkademy Bootcamp batch 14 test
