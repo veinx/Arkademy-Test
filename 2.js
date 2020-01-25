@@ -1,5 +1,5 @@
 const is_username_valid = username =>
-    /^[a-z][a-z0-9]{4,12}/.test(username);
+    /^[a-z][a-z0-9]{8,12}/.test(username);
 
 const is_password_valid = password =>
     /{9,}/.test(password) && password.includes("!@#$%^&*_=.,+?");
